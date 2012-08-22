@@ -6,3 +6,4 @@ newterm - open a new terminal window. meant to be bound to a global key combo
 newiterm - open a new iTerm window. meant to be bound to a global key combo
 qstile  - rudimentary window position/sizing. This is a quicksilver Action.
 qtrm    - quake terminal. requires some setup, but I prefer it to Visor.
+handbrake_conversion - bulk convert all avi & mkv files in directory
